@@ -6,6 +6,7 @@ I have built this website to have a place to host my portfolio projects.
 A single, long page divided into 3 section.
 
 1. section
+
    => A floating navigation bar with three parts
    - Intro
    - Projects
@@ -14,7 +15,9 @@ A single, long page divided into 3 section.
    => Headline with my name and image and a short introductory paragraph
    
 3. section
+
    => Grid with names, links and images of my projects
    
 5. section
+
    => My contact details
