@@ -10,8 +10,11 @@ A single, long page divided into 3 section.
    - Intro
    - Projects
    - Contacts
+
    => Headline with my name and image and a short introductory paragraph
-2. section
-   => Grid with names, links and images of my projects
+   
 3. section
+   => Grid with names, links and images of my projects
+   
+5. section
    => My contact details
