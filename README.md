@@ -21,3 +21,9 @@ A single, long page divided into 3 section.
 5. section
 
    => My contact details
+
+## Files and folders
+- index.html
+- styles.css
+- script.js
+- images/
